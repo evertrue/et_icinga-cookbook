@@ -1,0 +1,8 @@
+{
+  "id": "groups",
+  "check-mk-admin": {
+    "stage": {
+      "members": ["icingaadmin"]
+    }
+  }
+}

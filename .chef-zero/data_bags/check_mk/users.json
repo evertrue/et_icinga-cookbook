@@ -1,0 +1,13 @@
+{
+  "id": "users",
+  "icingaadmin": {
+    "email": "devops@evertrue.com",
+    "pager": "",
+    "firstname": "Icinga",
+    "lastname": "Admin",
+    "icinga": {
+      "contactgroups": ["all"]
+    },
+    "enabled": true
+  }
+}
